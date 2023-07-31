@@ -1,0 +1,98 @@
+[27-Apr-2021 02:15:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/rctprogr/public_html/sleepy/application/controllers/Grafik.php on line 18
+[01-May-2021 19:55:32 Asia/Jakarta] PHP Fatal error:  Call to a member function login() on null in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 178
+[01-May-2021 19:56:27 Asia/Jakarta] PHP Fatal error:  Call to a member function login() on null in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 178
+[01-May-2021 19:56:33 Asia/Jakarta] PHP Fatal error:  Call to a member function login() on null in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 178
+[12-May-2021 01:44:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 279
+[12-May-2021 01:44:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 279
+[12-May-2021 01:44:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 279
+[12-May-2021 01:48:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function random_word() in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 283
+[12-May-2021 02:04:40 Asia/Jakarta] PHP Fatal error:  Call to undefined function write_file() in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 291
+[16-May-2021 00:01:29 Asia/Jakarta] PHP Fatal error:  Call to a member function get_user() on null in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 133
+[16-May-2021 00:04:14 Asia/Jakarta] PHP Fatal error:  Call to a member function get_user() on null in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 133
+[16-May-2021 00:04:25 Asia/Jakarta] PHP Fatal error:  Call to a member function get_user() on null in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 133
+[16-May-2021 00:14:43 Asia/Jakarta] PHP Fatal error:  Call to a member function upload_bukti() on null in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 173
+[16-May-2021 00:17:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class Users_db in /home/rctprogr/public_html/sleepy/application/models/Transaksi_db.php on line 0
+[16-May-2021 00:19:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method Transaksi_db::upload_bukti() in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 174
+[16-May-2021 00:51:34 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Users_db::get_user() in /home/rctprogr/public_html/sleepy/application/models/Users_db.php on line 42
+[16-May-2021 00:51:44 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Users_db::get_user() in /home/rctprogr/public_html/sleepy/application/models/Users_db.php on line 42
+[16-May-2021 23:52:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 225
+[16-May-2021 23:52:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/rctprogr/public_html/sleepy/application/controllers/User.php on line 225
+[18-May-2021 00:42:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rctprogr/public_html/sleepy/application/controllers/Transaksi.php on line 53
+[18-May-2021 00:42:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rctprogr/public_html/sleepy/application/controllers/Transaksi.php on line 53
+[18-May-2021 00:42:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rctprogr/public_html/sleepy/application/controllers/Transaksi.php on line 53
+[18-May-2021 00:43:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rctprogr/public_html/sleepy/application/controllers/Transaksi.php on line 53
+[18-May-2021 00:43:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rctprogr/public_html/sleepy/application/controllers/Transaksi.php on line 53
+[18-May-2021 00:50:10 Asia/Jakarta] PHP Fatal error:  Call to a member function aprove() on null in /home/rctprogr/public_html/sleepy/application/controllers/Transaksi.php on line 51
+[24-May-2021 20:45:20 Asia/Jakarta] PHP Fatal error:  Call to a member function update_artikel() on null in /home/rctprogr/public_html/sleepy/application/controllers/Dokter.php on line 113
+[25-Aug-2021 23:47:15 Asia/Jakarta] PHP Fatal error:  Call to a member function avatar() on null in /home/rctprogr/public_html/project/marketplace/application/controllers/User.php on line 236
+[25-Aug-2021 23:50:32 Asia/Jakarta] PHP Fatal error:  Class 'profil' not found in /home/rctprogr/public_html/project/marketplace/application/controllers/User.php on line 238
+[06-Sep-2021 13:44:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function getDistance() in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:46:45 Asia/Jakarta] PHP Fatal error:  Call to undefined function getDistance() in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:47:31 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:06 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:07 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:41 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:42 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:42 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:43 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:43 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 13:48:43 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 316
+[06-Sep-2021 19:33:57 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 324
+[06-Sep-2021 19:35:19 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 324
+[06-Sep-2021 19:35:21 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 324
+[06-Sep-2021 19:35:51 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 324
+[06-Sep-2021 19:37:01 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rctprogr/public_html/project/marketplace/application/controllers/Barang.php on line 324
+[07-Sep-2021 19:51:02 Asia/Jakarta] PHP Fatal error:  Class 'profil' not found in /home/rctprogr/public_html/project/marketplace/application/controllers/User.php on line 259
+[07-Sep-2021 19:51:03 Asia/Jakarta] PHP Fatal error:  Class 'profil' not found in /home/rctprogr/public_html/project/marketplace/application/controllers/User.php on line 259
+[08-Sep-2021 03:02:35 Asia/Jakarta] PHP Fatal error:  Class 'profil' not found in /home/rctprogr/public_html/project/marketplace/application/controllers/User.php on line 259
+[07-Apr-2023 19:50:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method Users_db::add_user() in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 106
+[24-May-2023 01:18:42 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 12
+[24-May-2023 01:20:18 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 12
+[24-May-2023 01:21:56 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 12
+[24-May-2023 01:22:07 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 12
+[24-May-2023 01:22:08 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 12
+[24-May-2023 01:22:48 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:22:57 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:26:09 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:26:55 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'PPHPMailer' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 2
+[24-May-2023 01:26:55 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'Exception' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 3
+[24-May-2023 01:26:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:28:07 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'PPHPMailer' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 2
+[24-May-2023 01:28:07 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'Exception' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 3
+[24-May-2023 01:28:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:28:52 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'PPHPMailer' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 2
+[24-May-2023 01:28:52 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'Exception' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 3
+[24-May-2023 01:28:52 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:29:36 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'PPHPMailer' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 2
+[24-May-2023 01:29:36 Asia/Jakarta] PHP Warning:  The use statement with non-compound name 'Exception' has no effect in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 3
+[24-May-2023 01:29:36 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:30:15 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:30:19 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:31:56 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:35:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 16
+[24-May-2023 01:40:31 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 11
+[24-May-2023 01:40:38 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/rikn7443/public_html/kalori/application/third_party/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rikn7443/public_html/kalori/application/libraries/Phpmailer_lib.php on line 11
+[24-May-2023 01:45:46 Asia/Jakarta] PHP Fatal error:  Call to a member function isSMTP() on null in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 421
+[24-May-2023 13:17:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 481
+[03-Jul-2023 19:25:21 Asia/Jakarta] PHP Fatal error:  Call to a member function get_users() on null in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 244
+[03-Jul-2023 19:40:35 Asia/Jakarta] PHP Fatal error:  Call to a member function get_users() on null in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 244
+[06-Jul-2023 20:32:44 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[06-Jul-2023 20:32:44 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[06-Jul-2023 23:25:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[06-Jul-2023 23:25:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 02:28:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 06:10:39 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 06:45:34 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 06:56:43 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 10:06:55 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 15:30:29 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 16:51:38 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:31:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:31:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:35:43 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:35:57 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:36:00 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_harian() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:59:01 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_quantity() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[07-Jul-2023 18:59:04 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Record_db::update_quantity() in /home/rikn7443/public_html/kalori/application/models/Record_db.php on line 269
+[08-Jul-2023 09:09:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Record_db::select() in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 142
+[08-Jul-2023 09:10:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method Record_db::select() in /home/rikn7443/public_html/kalori/application/controllers/Admin.php on line 142
